@@ -54,3 +54,4 @@ Exemplo de arquivo de labirinto válido:
 
 O programa exibirá no terminal se o labirinto é válido e, se for, mostrará o caminho da entrada para a saída no labirinto.
 
+# projLabirinto
